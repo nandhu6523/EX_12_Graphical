@@ -38,6 +38,7 @@ Registeration Number :212222220028
         android:id="@+id/ImageView"/>
 </RelativeLayout>
 ```
+
 ## MainActivity.java
 ```
 package com.example.exp12;
@@ -78,8 +79,13 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+
 ## OUTPUT
+
+
 ![image](https://github.com/user-attachments/assets/a7ee6343-931f-461a-8db5-ff6381b6f9d7)
+
 
 ## RESULT
 Thus a Simple Android Application to create and design an android application that draws basic graphical primitives  executed successfully.
